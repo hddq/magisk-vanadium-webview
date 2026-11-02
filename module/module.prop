@@ -1,8 +1,8 @@
-id=cromite-webview
-name=Cromite SystemWebView
+id=vanadium-webview
+name=Vanadium SystemWebView
 version=v0.0.0
 versionCode=0
 author=hddq
-description=Replaces the stock Android System WebView with Cromite WebView
-minApi=0
-updateJson=https://raw.githubusercontent.com/hddq/magisk-cromite-webview/main/update.json
+description=Adds Vanadium as a selectable Android System WebView provider
+minApi=34
+updateJson=https://raw.githubusercontent.com/hddq/magisk-vanadium-webview/main/update.json

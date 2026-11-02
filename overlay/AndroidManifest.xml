@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.vanadium.webview.overlay.v3">
+    <uses-sdk android:minSdkVersion="30" android:targetSdkVersion="30" />
+    <overlay
+        android:targetPackage="android"
+        android:isStatic="true"
+        android:priority="9999" />
+    <application android:hasCode="false" />
+</manifest>
