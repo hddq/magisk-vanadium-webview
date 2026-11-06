@@ -87,3 +87,14 @@ base64 -w0 vanadium-overlay.p12
 Keep the same keystore for future releases so Android sees the overlay as the same package. The workflow puts the generated overlay only in the release ZIP; it does not commit APKs to the repository.
 
 The framework overlay registers Vanadium alongside the Google/AOSP provider entries shipped in this module without changing the selected provider. After flashing and rebooting, choose **Vanadium WebView** under **Developer options → WebView implementation**. Vanadium currently requires Android 14 or newer.
+
+## Disclaimer
+
+This is an unofficial community module and is not affiliated with, endorsed by, or supported by the GrapheneOS Project. Do not report issues encountered while using this module to the upstream GrapheneOS issue tracker.
+
+## License
+
+This project (module scripts, overlay source, and CI automation) is licensed under the [MIT License](LICENSE).
+
+Upstream [Vanadium WebView](https://gitlab.com/grapheneos/platform_external_vanadium) is developed by the GrapheneOS Project and licensed under the GNU General Public License v2.0 only (GPL-2.0) and Chromium's respective open-source licenses.
+
