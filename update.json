@@ -1,6 +1,6 @@
 {
-  "version": "v158.0.8127.42.0-a6b6351721f3",
-  "versionCode": 1795530136,
-  "zipUrl": "https://github.com/hddq/magisk-vanadium-webview/releases/download/v158.0.8127.42.0-a6b6351721f3/VanadiumSystemWebView-v158.0.8127.42.0-a6b6351721f3.zip",
-  "changelog": "https://github.com/hddq/magisk-vanadium-webview/releases/tag/v158.0.8127.42.0-a6b6351721f3"
+  "version": "v158.0.8127.92.0-c0c4d1857b76",
+  "versionCode": 1795614034,
+  "zipUrl": "https://github.com/hddq/magisk-vanadium-webview/releases/download/v158.0.8127.92.0-c0c4d1857b76/VanadiumSystemWebView-v158.0.8127.92.0-c0c4d1857b76.zip",
+  "changelog": "https://github.com/hddq/magisk-vanadium-webview/releases/tag/v158.0.8127.92.0-c0c4d1857b76"
 }
